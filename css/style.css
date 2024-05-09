@@ -1,0 +1,18 @@
+.card {
+  height: 55vh;
+}
+
+.card-body {
+  height: 100%;
+}
+
+.card-header {
+  background-color: #d2e5f6;
+}
+
+.card-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
